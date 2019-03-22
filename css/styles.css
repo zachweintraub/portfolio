@@ -10,7 +10,7 @@
 }
 
 #sidebar {
-  height: 200vh;
+  height: 150vh;
   width: 200px;
   background-color: #d8f5ff;
   float: left;
@@ -49,8 +49,7 @@
   padding: 2%;
   padding-left: 22%;
   background-color: #e8d8ff;
-  height: 200vh;
-
+  height: 150vh;
 }
 
 #section-projects p:first-of-type {
@@ -71,4 +70,5 @@
 
 .silly {
   font-family: fantasy;
+  font-style: italic;
 }
